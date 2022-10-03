@@ -1,0 +1,1 @@
+directive @isAuth on FIELD_DEFINITION
